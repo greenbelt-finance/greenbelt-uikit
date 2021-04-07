@@ -1,5 +1,5 @@
 {
-  "name": "@greenbelt-uikit/uikit",
+  "name": "@greenbelt-libs/uikit",
   "version": "0.10.2",
   "description": "Set of UI components for greenbelt projects",
   "main": "dist/index.cjs.js",
