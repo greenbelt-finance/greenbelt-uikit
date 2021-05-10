@@ -64,6 +64,7 @@ const PanelFooter: React.FC<Props> = ({
   langs,
   setLang,
   priceLink,
+  socials,
 }) => {
   if (!isPushed) {
     return (

@@ -122,18 +122,6 @@ export const socials = [
         label: "English",
         href: "https://t.me/goosedefi",
       },
-      // {
-      //   label: "Bahasa Indonesia",
-      //   href: "https://t.me/PancakeSwapIndonesia",
-      // },
-      // {
-      //   label: "Tiếng Việt",
-      //   href: "https://t.me/PancakeSwapVN",
-      // },
-      // {
-      //   label: "Italiano",
-      //   href: "https://t.me/pancakeswap_ita",
-      // },
     ],
   },
   {
