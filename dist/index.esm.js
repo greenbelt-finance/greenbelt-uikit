@@ -340,7 +340,7 @@ var Icon$L = function (props) {
 
 var Icon$K = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
-        React.createElement("image", { width: "32", height: "32", href: "/images/lh/logo.png" })));
+        React.createElement("image", { width: "32", height: "32", href: "/images/lh/logo.svg" })));
 };
 
 var Icon$J = function (props) {
@@ -1862,7 +1862,7 @@ var Icon$l = function (props) {
 var Logo$1 = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React.createElement("image", { width: "205", height: "26", href: isDark ? "/images/lh/LogoTextNewDark.png" : "/images/lh/LogoTextNewWhite.png" })));
+        React.createElement("image", { width: "205", height: "26", href: isDark ? "/images/lh/LogoTextNewDark.svg" : "/images/lh/LogoTextNewWhite.svg" })));
 };
 
 var Icon$k = function (props) {
